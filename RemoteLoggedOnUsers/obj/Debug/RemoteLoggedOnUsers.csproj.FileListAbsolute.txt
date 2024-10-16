@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\RemoteLoggedOnUsers\RemoteLoggedOnUsers\bin\Debug\RemoteLoggedOnUsers.exe.config
+C:\Users\admin\source\repos\RemoteLoggedOnUsers\RemoteLoggedOnUsers\bin\Debug\RemoteLoggedOnUsers.exe
+C:\Users\admin\source\repos\RemoteLoggedOnUsers\RemoteLoggedOnUsers\bin\Debug\RemoteLoggedOnUsers.pdb
+C:\Users\admin\source\repos\RemoteLoggedOnUsers\RemoteLoggedOnUsers\bin\Debug\CommandLine.dll
+C:\Users\admin\source\repos\RemoteLoggedOnUsers\RemoteLoggedOnUsers\bin\Debug\CommandLine.xml
+C:\Users\admin\source\repos\RemoteLoggedOnUsers\RemoteLoggedOnUsers\obj\Debug\RemoteLoggedOnUsers.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\RemoteLoggedOnUsers\RemoteLoggedOnUsers\obj\Debug\RemoteLoggedOnUsers.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\RemoteLoggedOnUsers\RemoteLoggedOnUsers\obj\Debug\RemoteLoggedOnUsers.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RemoteLoggedOnUsers\RemoteLoggedOnUsers\obj\Debug\RemoteLoggedOnUsers.csproj.CopyComplete
+C:\Users\admin\source\repos\RemoteLoggedOnUsers\RemoteLoggedOnUsers\obj\Debug\RemoteLoggedOnUsers.exe
+C:\Users\admin\source\repos\RemoteLoggedOnUsers\RemoteLoggedOnUsers\obj\Debug\RemoteLoggedOnUsers.pdb
